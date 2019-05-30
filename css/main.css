@@ -166,7 +166,7 @@ section {display: flex;}
 }
 .full-banner-image {
   flex: 0 0 58.333333%;
-  background-image: url('../img/vist5a.jpg');
+  background-image: url('../img/vista.jpg');
   background-size: cover;
   background-position: top center;
   min-height: 400px;
@@ -207,5 +207,5 @@ section {display: flex;}
   margin-top: 50px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  z-index: 1;
+  z-index: 1
 }
